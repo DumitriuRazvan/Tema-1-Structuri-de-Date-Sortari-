@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584855625 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\sortari\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<cstdlib>
+	<ctime>
+
